@@ -271,5 +271,14 @@
       "'CommitHelper' object has no attribute 'commit_or_none'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754724201.084187,
+    "completed_at": 1754724201.62632,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
