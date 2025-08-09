@@ -262,5 +262,14 @@
       "Remote 'alice-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-alice, fix that!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754724012.466231,
+    "completed_at": 1754724012.537748,
+    "comments": [
+      "'CommitHelper' object has no attribute 'commit_or_none'"
+    ],
+    "status": "Error"
   }
 ]
