@@ -7,5 +7,14 @@
       "All commits are empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1766735838.354936,
+    "completed_at": 1766735841.293211,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
   }
 ]
