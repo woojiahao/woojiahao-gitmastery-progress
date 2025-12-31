@@ -46,5 +46,15 @@
       "Tag v2.0 is missing, did you push it to the remote?"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767190061.743272,
+    "completed_at": 1767190074.956394,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
   }
 ]
